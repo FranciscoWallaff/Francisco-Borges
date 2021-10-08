@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Borges</h1>
-<h3 align="center">Desenvolvedor front-end e futuro back-end</h3>
+<h3 align="center">Front-end developer and future back-end</h3>
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, PHP.**
 
